@@ -1,5 +1,11 @@
 # WebBuggs-Tasks
 
+**************************** Company Intro *********************************************** 
+Webbuggs:
+Webbuggs is a Web development company specializing in emerging technologies and value-driven projects. At Webbuggs, we assure stability and consistency of our performance by working with people who share our four core values.
+https://webbuggs.com
+******************************************************************************************
+
 Django Rest Framework and ORM.
 After Completing this task you’ll learn following DRF topics,(Serializers , VIewsets, ORM, (Complex ORM Queries),Analytics Problem solving skills)
 
@@ -54,11 +60,6 @@ Write Critical Finding about pypdf2 Library and AWS Textract, its benefits and u
 
 Pdf sample for practice (Document in the Webbud task folder).
 
-
-**************************** Company Intro ***********************************************
-Webbuggs:
-Webbuggs is a Web development company specializing in emerging technologies and value-driven projects. At Webbuggs, we assure stability and consistency of our performance by working with people who share our four core values.
-https://webbuggs.com
 
 **************************** Self Boi ****************************************************
 Linkedin: linkedin.com/in/zaid-ullah07
