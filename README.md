@@ -1,4 +1,4 @@
-# WebBug-Tasks
+# WebBuggs-Tasks
 
 Django Rest Framework and ORM.
 After Completing this task you’ll learn following DRF topics,(Serializers , VIewsets, ORM, (Complex ORM Queries),Analytics Problem solving skills)
