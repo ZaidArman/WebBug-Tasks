@@ -64,7 +64,7 @@ Write Critical Finding about pypdf2 Library and AWS Textract, its benefits and u
 Pdf sample for practice (Document in the Webbud task folder).
 
 
-************************************************** Auther *******************************************************************
+********************************************** Auther ************************************************************
 
 Linkedin: www.linkedin.com/in/zaid-ullah07
 
