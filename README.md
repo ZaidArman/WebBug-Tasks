@@ -66,7 +66,8 @@ Pdf sample for practice (Document in the Webbud task folder).
 
 ************************************************** Auther *******************************************************************
 
-Linkedin: linkedin.com/in/zaid-ullah07
-Github:   github.com/ZaidArman
+Linkedin: www.linkedin.com/in/zaid-ullah07
+
+Github:   www.github.com/ZaidArman
 
                           Thanks You :)
