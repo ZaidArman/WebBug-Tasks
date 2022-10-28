@@ -1,0 +1,12 @@
+install PyPDF2
+install tabula-py
+install tabulate
+install mupdf
+install libmupdf-dev
+install PyMuPDF
+install opencv-python #install it if you want to work on Handwritten text(pdf, jpeg, png etc)
+install pytesseract
+install openCV-python
+install tesseract-ocr
+install tesseract
+install libtesseract-dev

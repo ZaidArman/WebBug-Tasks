@@ -1,0 +1,44 @@
+Question 2(1): 
+	Write Critical Finding about pypdf2 Library and AWS Textract, its benefits and usage with any real time example (findings should not be more than 100 lines).
+
+Answer:
+
+PyPDF2:
+	PyPDF2 is a python library used for performing major tasks on PDF files such as extracting the document-specific information(Author, Producer, Created_Date, Company_Name etc), merging the PDF files, splitting the pages of a PDF file, adding watermarks to a file, encrypting and decrypting the PDF files, etc.
+
+Benefits of PyPDF2:
+	- Helps in extracting metadata of pdf.
+	- Helps in extracting text from pdf.
+	- Helps in merging and splitting of pdf.
+	- Free of Cost
+
+AWS Textract: 
+	Amazon Web Service Textract (AWS Textract) is a machine learning (ML) service that automatically extracts text, handwriting, and data from scanned documents.
+AWS Textract becomes the top performer by an almost perfect (99.3%) text accuracy level with a narrow confidence interval.
+
+
+Benefits of AWS Textract: 
+	- Easy to integrate with existing application
+	- Scalable documents analysis service
+	- No human intervention is required.
+	- Ready to use
+	- OCR, extract structured data like, Tables, Forms, and Expense related documents.
+
+Usage: 
+	- Hospitals
+	- Educatons
+	- Marketing
+	- Social Media
+	- Business etc
+
+Real-time example: 
+	1) - Nanonets: A platform (Nanonets) who works on Optical Character Recognition(OCR) use to deal with Handwriting Recognition using Machine Learning. OCR has been considered a solved problem there is one key component of it, Handwriting Recognition (Handwriting OCR) or Handwritten Text Recognition(HTR) which is still considered a challenging problem statement.
+
+	2) - Apache Tika: The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF). All of these file types can be parsed through a single interface, making Tika useful for search engine indexing, content analysis, translation, and much more.
+
+
+
+
+************** Thank You *****************
+
+
